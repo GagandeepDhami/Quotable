@@ -1,2 +1,0 @@
-# Quotable
-Quote App
